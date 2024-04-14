@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petermagar&show_icons=true&locale=en" alt="petermagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petermagar&" alt="petermagar" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=petermagar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub History!
+![Snake animation](https://github.com/petermagar/petermagar/blob/output/github-contribution-grid-snake.svg)
