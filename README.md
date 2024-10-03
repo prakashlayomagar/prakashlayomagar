@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [AccoBnb](https://github.com/UNH-iOS-Spring2024/AccoBnB_Dipesh_Sudip_Ayam_Prakash_S24)
 
-- 👨‍💻 All of my projects are available at [https://github.com/petermagar](https://github.com/petermagar)
+- 👨‍💻 All of my projects are available at [https://github.com/prakashlayomagar](https://github.com/prakashlayomagar)
 
 - 💬 Ask me about **Full Stack Java Developer**
 
