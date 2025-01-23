@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakash Layo Magar</h1>
-<h3 align="center">A passionate Full Stack Java developer from NYC,USA. I build things for web . Currently looking for a job oppturtinites in the same field. </h3>
+<h3 align="center">I'm a passionate Full Stack Java Developer based in NYC, USA, with a knack for building dynamic and scalable web applications. A natural problem-solver, I'm currently seeking exciting opportunities to create impactful solutions and contribute to innovative projects.
+ </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/petermagar/petermagar/main/workpro.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashlayomagar&label=Profile%20views&color=0e75b6&style=flat" alt="prakashlayomagar" /> </p>
 
-- 🔭 I’m currently working on [Nepal Darshan Church](https://github.com/prakashlayomagar/NepalDarshanCurch-Website)
+- 🔭 I’m currently working on Java Springboot Applications.
 
 - 🌱 I’m currently learning **SWIFT**
 
